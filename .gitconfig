@@ -1,0 +1,10 @@
+[user]
+    name = Don Cestnik
+    email = don.cestnik@gmail.com
+[core]
+    editor = vim
+[alias]
+    co = checkout
+    ci = commit
+    br = branch
+    st = status
